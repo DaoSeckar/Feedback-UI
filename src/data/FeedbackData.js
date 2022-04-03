@@ -1,19 +1,19 @@
 const FeedbackData = [
     {
-        id: 1,
-        rating: 10,
-        text: 'amazing work 20/10 pog',
+      id: 1,
+      rating: 10,
+      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
     },
     {
-        id: 2,
-        rating: 3,
-        text: 'amazing work 20/10 pog',
+      id: 2,
+      rating: 9,
+      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
     },
     {
-        id: 3,
-        rating: 4,
-        text: 'amazing work 20/10 pog',
-    }
-]
-
-export default FeedbackData
+      id: 3,
+      rating: 8,
+      text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae.',
+    },
+  ]
+  
+  export default FeedbackData
